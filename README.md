@@ -19,10 +19,10 @@ The main objective of this project is to analyze a month's worth of electronics 
 ## 📊 Data Visualizations
 
 ### 1. Top Selling Products
-![Top Products](https://github.com/saharsaud-ui/Sales-Data-Analysis-EDA/blob/main/top_products_revenue.png?raw=true)
+![Top Products]()
 
 ### 2. Revenue by City
-![City Sales](https://github.com/saharsaud-ui/Sales-Data-Analysis-EDA/blob/main/sales_by_city_distribution.png?raw=true)
+![City Sales]()
 
 ## 💡 Top Findings
 * **Market Leader:** San Francisco is the most profitable city, contributing significantly to the total revenue.
